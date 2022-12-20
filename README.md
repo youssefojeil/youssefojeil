@@ -3,7 +3,9 @@
 -  I’m a Full-Stack Developer with an Electrical Engineering background
 -  I’m a blockchain & web3 enthusiast
 -  Currently learning solidity and how to integrate web3 technologies on apps
--  You can reach me at youssef.ojeil@hotmail.com
+-  You can checkout my portfolio here! [Portfolio](https://youssefojeil.github.io/React-Portfolio/#home)
+-  Whether you are looking to collaborate or have an opportunity, feel free to reach out to me through my email youssef.ojeil@hotmail.com or any of my socials
+
 
 ### Socials
 
