@@ -21,7 +21,7 @@
 
 ![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10&height=1&reversal=true)
 
-[![Youssef stats GRS](https://github-readme-stats.vercel.app/api?username=youssefojeil&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.comyoussefojeil)
+[![Youssef stats GRS](https://github-readme-stats.vercel.app/api?username=youssefojeil&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/youssefojeil)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefojeil&layout=compact&theme=vision-friendly-dark)](https://github.com/youssefojeil/github-readme-stats)
 
