@@ -3,13 +3,13 @@
 -  I’m a Full-Stack Developer with an Electrical Engineering background
 -  I’m a blockchain & web3 enthusiast
 -  Currently learning solidity and how to integrate web3 technologies on apps
--  You can checkout my portfolio here! [Portfolio](https://youssefojeil.github.io/React-Portfolio/#home)
+-  You can checkout my portfolio here! [Portfolio](https://youssefojeil.vercel.app/)
 -  Whether you are looking to collaborate or have an opportunity, feel free to reach out to me through my email youssef.ojeil@gmail.com or any of my socials
 
 
 ### Socials
 
-[![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefojeil/) [![Email Shield](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.ojeil@gmail.com) [![Twitter Shield](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gallops_)
+[![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefojeil/) [![Email Shield](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssef.ojeil@gmail.com) 
 
 ![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10&height=1&reversal=true)
 
